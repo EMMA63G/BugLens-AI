@@ -47,6 +47,7 @@ The project provides an intuitive and modern web interface built with Flask and 
 - Tailwind CSS
 - JavaScript
 - JSON
+- RAG
 
 ---
 
