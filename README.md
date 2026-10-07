@@ -115,7 +115,7 @@ The application provides a clean and interactive dashboard where users can:
 🎥 Demo Video:
 
 [Watch Demo Video](https://drive.google.com/file/d/1I0YrnmvToqf2UeRuPwZM_F-4M-3AnP9V/view?usp=drivesdk)
-أو:
+
 
 
 ---
