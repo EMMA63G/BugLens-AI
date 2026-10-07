@@ -1,4 +1,4 @@
-# 🐞 BugLens AI
+#  BugLens AI
 
 Advanced AI-powered debugging assistant for Python applications.
 
