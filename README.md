@@ -112,6 +112,11 @@ The application provides a clean and interactive dashboard where users can:
 - View AI-generated debugging reports
 <img width="1911" height="917" alt="image" src="https://github.com/user-attachments/assets/41740c6c-03e0-49fd-9fb1-57506dee1262" />
 
+🎥 Demo Video:
+
+[Watch Demo Video](https://drive.google.com/file/d/1I0YrnmvToqf2UeRuPwZM_F-4M-3AnP9V/view?usp=drivesdk)
+أو:
+
 
 ---
 
